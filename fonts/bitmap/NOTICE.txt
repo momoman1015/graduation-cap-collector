@@ -1,0 +1,1 @@
+CapCollector11 bitmap atlases derived from Galmuri 2.40.3 native BDF grids. Copyright 2019–2025 Lee Minseo. Licensed under SIL OFL 1.1 (OFL.md). Atlas conversion by this project. Font data remains under OFL. Original font names are attribution, not the derivative family name.
