@@ -1,1 +1,0 @@
-import{i as e}from"./index-B-IQmNBC.js";var t=class extends e{async show(e){}async hide(e){}};export{t as SplashScreenWeb};
